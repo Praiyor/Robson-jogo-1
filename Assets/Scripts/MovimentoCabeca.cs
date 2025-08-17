@@ -54,7 +54,11 @@ public class MovimentoCabeca : MonoBehaviour
             salvaPosicao.y = pontoOrigem;
         }
 
-        transform.localPosition = salvaPosicao;
+        transform.localPosition = Vector3.Lerp(
+            transform.localPosition,
+            salvaPosicao,
+            Time.deltaTime * 3f 
+        );
 
     }
 }

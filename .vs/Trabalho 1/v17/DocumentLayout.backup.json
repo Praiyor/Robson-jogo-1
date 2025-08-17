@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "E:\\Unity\\Projetos\\Trabalho 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\movimentocabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\acoesobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\acoesobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\identificarobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\identificarobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\movimentocabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimentocabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\rotacaocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\respiracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respiracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\rotacaocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotacaocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,38 +43,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MovimentoCabeca.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentoCabeca.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimentoCabeca.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentoCabeca.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MovimentoCabeca.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwDUAAAAvAAAAAAAAAA==",
+              "Title": "DragDrop.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\DragDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragDrop.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\DragDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragDrop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T22:30:43.52Z",
+              "WhenOpened": "2025-08-17T20:09:19.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RotacaoCamera.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\RotacaoCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RotacaoCamera.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\RotacaoCamera.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RotacaoCamera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Title": "AcoesObjeto.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\AcoesObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AcoesObjeto.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\AcoesObjeto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AcoesObjeto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T22:20:10.479Z",
+              "WhenOpened": "2025-08-17T20:00:57.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IdentificarObjeto.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\IdentificarObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IdentificarObjeto.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\IdentificarObjeto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IdentificarObjeto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:15:44.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Respiracao.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Respiracao.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Respiracao.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Respiracao.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Respiracao.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T22:45:35.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovimentoCabeca.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentoCabeca.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimentoCabeca.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentoCabeca.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimentoCabeca.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T22:30:43.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RotacaoCamera.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\RotacaoCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotacaoCamera.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\RotacaoCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotacaoCamera.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T22:20:10.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MovimentarPersonagem.cs",
               "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentarPersonagem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovimentarPersonagem.cs",
               "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentarPersonagem.cs",
               "RelativeToolTip": "Assets\\Scripts\\MovimentarPersonagem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T21:55:26.44Z"
             }
