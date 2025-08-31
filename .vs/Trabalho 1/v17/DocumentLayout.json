@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "E:\\Unity\\Projetos\\Trabalho 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\acoesobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\acoesobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\armas\\glock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\glock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\identificarobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\identificarobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\armas\\movimentacaoarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\movimentacaoarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62EC3C7F-4EA5-1A42-D6B5-AEE2B7CF90DF}|Assembly-CSharp-Editor.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\sun_temple\\postprocessing\\editor\\propertydrawers\\mindrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EC3C7F-4EA5-1A42-D6B5-AEE2B7CF90DF}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\sun_temple\\postprocessing\\editor\\propertydrawers\\mindrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\movimentocabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimentocabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\BlockMontanha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BlockMontanha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\respiracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respiracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\DragDrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DragDrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\rotacaocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotacaocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\AcoesObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AcoesObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\movimentarpersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimentarpersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\IdentificarObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\IdentificarObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Respiracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Respiracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentoCabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovimentoCabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\RotacaoCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RotacaoCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentarPersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovimentarPersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +54,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Glock.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\Glock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Armas\\Glock.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\Glock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Armas\\Glock.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T21:32:59.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimentacaoArma.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\MovimentacaoArma.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Armas\\MovimentacaoArma.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\MovimentacaoArma.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Armas\\MovimentacaoArma.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T20:02:35.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlockMontanha.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\BlockMontanha.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockMontanha.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\BlockMontanha.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockMontanha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:30:26.477Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MinDrawer.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Sun_Temple\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Sun_Temple\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Sun_Temple\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "RelativeToolTip": "Assets\\Sun_Temple\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T01:01:49.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DragDrop.cs",
               "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\DragDrop.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DragDrop.cs",
@@ -50,12 +115,11 @@
               "RelativeToolTip": "Assets\\Scripts\\DragDrop.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T20:09:19.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T20:09:19.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AcoesObjeto.cs",
               "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\AcoesObjeto.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AcoesObjeto.cs",
@@ -63,12 +127,11 @@
               "RelativeToolTip": "Assets\\Scripts\\AcoesObjeto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T20:00:57.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T20:00:57.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "IdentificarObjeto.cs",
               "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\IdentificarObjeto.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IdentificarObjeto.cs",
@@ -76,12 +139,11 @@
               "RelativeToolTip": "Assets\\Scripts\\IdentificarObjeto.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T19:15:44.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T19:15:44.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Respiracao.cs",
               "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Respiracao.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Respiracao.cs",
@@ -93,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "MovimentoCabeca.cs",
               "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentoCabeca.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovimentoCabeca.cs",
@@ -105,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "RotacaoCamera.cs",
               "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\RotacaoCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RotacaoCamera.cs",
@@ -117,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "MovimentarPersonagem.cs",
               "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentarPersonagem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovimentarPersonagem.cs",
