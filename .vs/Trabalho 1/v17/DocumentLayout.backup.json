@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "E:\\Unity\\Projetos\\Trabalho 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\armas\\glock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\heroi\\movimentarpersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heroi\\movimentarpersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\inimigo\\inimigoboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inimigo\\inimigoboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\inimigo\\inimigocomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inimigo\\inimigocomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\inimigo\\patrulharaleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inimigo\\patrulharaleatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EC3C7F-4EA5-1A42-D6B5-AEE2B7CF90DF}|Assembly-CSharp-Editor.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\editor\\fieldofvieweditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EC3C7F-4EA5-1A42-D6B5-AEE2B7CF90DF}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\fieldofvieweditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\inimigo\\fieldofview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inimigo\\fieldofview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\inimigo\\estadocorrendoinimigocomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inimigo\\estadocorrendoinimigocomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\armas\\glock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\glock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|e:\\unity\\projetos\\trabalho 1\\assets\\scripts\\armas\\movimentacaoarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\movimentacaoarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\armas\\ilevardano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\ilevardano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62EC3C7F-4EA5-1A42-D6B5-AEE2B7CF90DF}|Assembly-CSharp-Editor.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\sun_temple\\postprocessing\\editor\\propertydrawers\\mindrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62EC3C7F-4EA5-1A42-D6B5-AEE2B7CF90DF}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\sun_temple\\postprocessing\\editor\\propertydrawers\\mindrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\armas\\magazineglock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\armas\\magazineglock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\BlockMontanha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BlockMontanha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\heroi\\acoesobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heroi\\acoesobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\DragDrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DragDrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\AcoesObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AcoesObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\IdentificarObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\IdentificarObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Respiracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Respiracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentoCabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovimentoCabeca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\RotacaoCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RotacaoCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentarPersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovimentarPersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|E:\\Unity\\Projetos\\Trabalho 1\\assets\\scripts\\heroi\\ipegavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FD9D9E-6663-EF50-E5A7-0572BFDA38AC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heroi\\ipegavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,148 +62,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Glock.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\Glock.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Armas\\Glock.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\Glock.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Armas\\Glock.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwC4AAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartGame.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\StartGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartGame.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T21:32:59.332Z",
+              "WhenOpened": "2025-09-13T02:30:18.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MovimentacaoArma.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\MovimentacaoArma.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Armas\\MovimentacaoArma.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\MovimentacaoArma.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Armas\\MovimentacaoArma.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAACHAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PatrulharAleatorio.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\PatrulharAleatorio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inimigo\\PatrulharAleatorio.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\PatrulharAleatorio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inimigo\\PatrulharAleatorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T20:02:35.612Z",
+              "WhenOpened": "2025-09-13T01:07:00.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FieldOfViewEditor.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Editor\\FieldOfViewEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\FieldOfViewEditor.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Editor\\FieldOfViewEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\FieldOfViewEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T00:15:48.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FieldOfView.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\FieldOfView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inimigo\\FieldOfView.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\FieldOfView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inimigo\\FieldOfView.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwD4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T23:47:43.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InimigoBoss.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\InimigoBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inimigo\\InimigoBoss.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\InimigoBoss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inimigo\\InimigoBoss.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:17:48.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BlockMontanha.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\BlockMontanha.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockMontanha.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\BlockMontanha.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BlockMontanha.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "InimigoComum.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\InimigoComum.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inimigo\\InimigoComum.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\InimigoComum.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inimigo\\InimigoComum.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwCwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T23:30:26.477Z"
+              "WhenOpened": "2025-09-12T00:17:26.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MinDrawer.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Sun_Temple\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
-              "RelativeDocumentMoniker": "Assets\\Sun_Temple\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Sun_Temple\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
-              "RelativeToolTip": "Assets\\Sun_Temple\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ILevarDano.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\ILevarDano.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Armas\\ILevarDano.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\ILevarDano.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Armas\\ILevarDano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T01:01:49.887Z"
+              "WhenOpened": "2025-09-12T00:53:39.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DragDrop.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\DragDrop.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DragDrop.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\DragDrop.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DragDrop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T20:09:19.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "AcoesObjeto.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\AcoesObjeto.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AcoesObjeto.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\AcoesObjeto.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AcoesObjeto.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Heroi\\AcoesObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Heroi\\AcoesObjeto.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Heroi\\AcoesObjeto.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Heroi\\AcoesObjeto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T20:00:57.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T20:49:19.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IdentificarObjeto.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\IdentificarObjeto.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\IdentificarObjeto.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\IdentificarObjeto.cs",
-              "RelativeToolTip": "Assets\\Scripts\\IdentificarObjeto.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowF4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "MagazineGlock.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\MagazineGlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Armas\\MagazineGlock.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\MagazineGlock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Armas\\MagazineGlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T19:15:44.793Z",
+              "WhenOpened": "2025-09-06T20:48:21.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPegavel.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Heroi\\IPegavel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Heroi\\IPegavel.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Heroi\\IPegavel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Heroi\\IPegavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T20:40:11.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Glock.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\Glock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Armas\\Glock.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Armas\\Glock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Armas\\Glock.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T20:17:16.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimentarPersonagem.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Heroi\\MovimentarPersonagem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Heroi\\MovimentarPersonagem.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Heroi\\MovimentarPersonagem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Heroi\\MovimentarPersonagem.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T20:15:28.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Respiracao.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Respiracao.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Respiracao.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Respiracao.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Respiracao.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Title": "EstadoCorrendoInimigoComum.cs",
+              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\EstadoCorrendoInimigoComum.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inimigo\\EstadoCorrendoInimigoComum.cs",
+              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\Inimigo\\EstadoCorrendoInimigoComum.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inimigo\\EstadoCorrendoInimigoComum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T22:45:35.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MovimentoCabeca.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentoCabeca.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimentoCabeca.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentoCabeca.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MovimentoCabeca.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T22:30:43.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RotacaoCamera.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\RotacaoCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RotacaoCamera.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\RotacaoCamera.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RotacaoCamera.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T22:20:10.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MovimentarPersonagem.cs",
-              "DocumentMoniker": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentarPersonagem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimentarPersonagem.cs",
-              "ToolTip": "E:\\Unity\\Projetos\\Trabalho 1\\Assets\\Scripts\\MovimentarPersonagem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MovimentarPersonagem.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T21:55:26.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T00:35:19.411Z"
             }
           ]
         }

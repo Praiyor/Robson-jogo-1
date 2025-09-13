@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class MovimentarPersonagem : MonoBehaviour
 {
@@ -8,6 +10,9 @@ public class MovimentarPersonagem : MonoBehaviour
     public float velocidade = 6f;
     public float alturaPulo = 6f;
     public float gravidade = -20f;
+    public AudioClip somPulo;
+    public AudioClip somPasso;
+    private AudioSource audioSrc;
 
     public Transform checaChao;
     public float raioEsfera = 0.4f;
@@ -25,11 +30,18 @@ public class MovimentarPersonagem : MonoBehaviour
     {
         controle = GetComponent<CharacterController>();
         cameraTransform = Camera.main.transform;
+        audioSrc = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(vida <= 0)
+        {
+            FimDeJogo();
+            return;
+        }
+
         estaNoChao = Physics.CheckSphere(checaChao.position, raioEsfera, chaoMask);
 
         float x = Input.GetAxis("Horizontal");
@@ -39,11 +51,31 @@ public class MovimentarPersonagem : MonoBehaviour
 
         controle.Move(mover * velocidade * Time.deltaTime);
 
-        ChecarBloqueioAbaixo();
+        if(estaNoChao && mover.magnitude > 0.1f)
+        {
+            if (!audioSrc.isPlaying)
+            {
+                audioSrc.clip = somPasso;
+                audioSrc.loop = true;
+                audioSrc.Play();
+            }
+        }else
+        {
+            if(audioSrc.clip == somPasso && audioSrc.isPlaying)
+            {
+                audioSrc.Stop();
+                audioSrc.loop = false;
+            }
+        }
+
+            ChecarBloqueioAbaixo();
 
         if (!levantarBloqueado && estaNoChao && Input.GetButtonDown("Jump"))
         {
             velocidadeCai.y = Mathf.Sqrt(alturaPulo * -2f * gravidade);
+            audioSrc.clip = somPulo;
+            audioSrc.loop = false;
+            audioSrc.Play();
         }
 
         if (!estaNoChao)
@@ -91,4 +123,27 @@ public class MovimentarPersonagem : MonoBehaviour
         RaycastHit hit;
         levantarBloqueado = Physics.Raycast(cameraTransform.position, Vector3.up, out hit, 1.1f);
     }
+
+    private int vida = 100;
+    public Slider sliderVida;
+
+    public void AtualizarVida(int novaVida)
+    {
+        vida = Mathf.CeilToInt(Mathf.Clamp(vida + novaVida, 0, 100));
+
+        sliderVida.value = vida;
+    }
+
+    private void FimDeJogo()
+    {
+        //Time.timeScale = 0;
+        //Camera.main.GetComponent<AudioListener>().enabled = false;
+
+        //GetComponentInChildren<Glock>().enabled = false;
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+        SceneManager.LoadScene(0);
+    }
+
+
 }
